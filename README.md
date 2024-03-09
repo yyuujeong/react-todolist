@@ -1,4 +1,4 @@
-# 모바일 리뉴얼 - 올드채널
+# 투두리스트
 
 ### <https://yyuujeong.github.io/react-todolist/>
 
