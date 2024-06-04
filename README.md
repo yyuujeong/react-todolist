@@ -3,7 +3,7 @@
 ### <https://yyuujeong.github.io/react-todolist/>
 
 ## :hammer_and_pick: 기술
-```CSS3``` ```React```
+```React``` ```CSS3```
 
 ## :card_index_dividers: 프로젝트 소개
 - 개인 프로젝트
