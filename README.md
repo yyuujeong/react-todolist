@@ -4,6 +4,9 @@
 
 <img width="948" align="center" alt="reacttodo" src="https://github.com/yyuujeong/react-todolist/assets/161145357/83bd763d-aa74-4f24-a5ab-f27e729ba594">
 
+## :date: 기간
+- 2023.05
+
 ## :hammer_and_pick: 기술
 ```React``` ```CSS3```
 
